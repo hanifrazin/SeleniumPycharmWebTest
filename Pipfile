@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 selenium = "*"
+selenium-chrome = "*"
+selenium-chromedriver = "*"
+selenium-firefox = "*"
+webdriver-manager = "*"
 
 [dev-packages]
 
