@@ -1,7 +1,7 @@
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium import webdriver
-b
+
 # untuk menjalankan browser di firefox silahkan import library ini
 from selenium.webdriver.firefox.options import Options as options
 from selenium.webdriver.firefox.service import Service
